@@ -1,2 +1,14 @@
 link para o download do git: https://git-scm.com/downloads
+
+Git: é um sistema de versionamento de arquivos.
+GitHub: é a plataforma para hospedar os arquivos que está utilizando git.
+
 O git Bash é um terminal extendido para otimizar o uso do Git.
+
+termos e seus significados:
+BRANCH - ramificação que você vai fazer no seu projeto.
+COMMIT - significa que postei as modificações do projeto em nuvem.
+MERGE - fazer a junção de uma branch alternativa para a principal.
+REMOTE - faz uma ligação em branch no repositório
+PUSH - utilizado para colocare o commit que você fez no remot (GitHub).
+PULL - puxa o que está lá no repositório do Git para a sua máquina.
